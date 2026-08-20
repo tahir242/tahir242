@@ -155,7 +155,8 @@ Here are some areas I'm actively interested in building and contributing to:
 
 ## 🐍 Contribution Activity
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/tahir242/tahir242/output/github-contribution-grid-snake.svg)
+🔗 **View my live contribution activity on GitHub:**  
+https://github.com/tahir242
 
 ---
 
